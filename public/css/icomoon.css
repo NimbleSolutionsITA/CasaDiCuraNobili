@@ -1,0 +1,182 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?p2husf');
+  src:  url('fonts/icomoon.eot?p2husf#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?p2husf') format('truetype'),
+    url('fonts/icomoon.woff?p2husf') format('woff'),
+    url('fonts/icomoon.svg?p2husf#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-advice:before {
+  content: "\e900";
+}
+.icon-ambulance:before {
+  content: "\e901";
+}
+.icon-awards:before {
+  content: "\e902";
+}
+.icon-bed:before {
+  content: "\e903";
+}
+.icon-blood-2:before {
+  content: "\e904";
+}
+.icon-blood:before {
+  content: "\e905";
+}
+.icon-bones:before {
+  content: "\e906";
+}
+.icon-brain-2:before {
+  content: "\e907";
+}
+.icon-brain:before {
+  content: "\e908";
+}
+.icon-calendar:before {
+  content: "\e909";
+}
+.icon-contacts:before {
+  content: "\e90a";
+}
+.icon-crutches:before {
+  content: "\e90b";
+}
+.icon-dentist:before {
+  content: "\e90c";
+}
+.icon-desk:before {
+  content: "\e90d";
+}
+.icon-dialysis:before {
+  content: "\e90e";
+}
+.icon-doctor-fm:before {
+  content: "\e90f";
+}
+.icon-doctor:before {
+  content: "\e910";
+}
+.icon-email:before {
+  content: "\e911";
+}
+.icon-eye:before {
+  content: "\e912";
+}
+.icon-file-2:before {
+  content: "\e913";
+}
+.icon-file:before {
+  content: "\e914";
+}
+.icon-gallery:before {
+  content: "\e915";
+}
+.icon-ghc:before {
+  content: "\e916";
+}
+.icon-heart-2:before {
+  content: "\e917";
+}
+.icon-heart:before {
+  content: "\e918";
+}
+.icon-hospital-2:before {
+  content: "\e919";
+}
+.icon-hospital:before {
+  content: "\e91a";
+}
+.icon-injection:before {
+  content: "\e91b";
+}
+.icon-kidney:before {
+  content: "\e91c";
+}
+.icon-lab:before {
+  content: "\e91d";
+}
+.icon-location:before {
+  content: "\e91e";
+}
+.icon-lungs:before {
+  content: "\e91f";
+}
+.icon-micro:before {
+  content: "\e920";
+}
+.icon-mission:before {
+  content: "\e921";
+}
+.icon-phone:before {
+  content: "\e922";
+}
+.icon-pills-2:before {
+  content: "\e923";
+}
+.icon-pills:before {
+  content: "\e924";
+}
+.icon-prescription:before {
+  content: "\e925";
+}
+.icon-report:before {
+  content: "\e926";
+}
+.icon-rx:before {
+  content: "\e927";
+}
+.icon-search:before {
+  content: "\e928";
+}
+.icon-service:before {
+  content: "\e929";
+}
+.icon-staff:before {
+  content: "\e92a";
+}
+.icon-stethoscope-2:before {
+  content: "\e92b";
+}
+.icon-success:before {
+  content: "\e92c";
+}
+.icon-surgery:before {
+  content: "\e92d";
+}
+.icon-syringe:before {
+  content: "\e92e";
+}
+.icon-target:before {
+  content: "\e92f";
+}
+.icon-temp:before {
+  content: "\e930";
+}
+.icon-time:before {
+  content: "\e931";
+}
+.icon-trauma:before {
+  content: "\e932";
+}
+.icon-wheelchair:before {
+  content: "\e933";
+}
